@@ -1,0 +1,176 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,perspective,org.eclipse.cdt.ui,,"org.eclipse.cdt.ui.CPerspective",1522325991553
+started,bundle,org.eclipse.osgi,3.6.2.R36x_v20110210,"org.eclipse.osgi",1522325991554
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1522325991554
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1522325991555
+started,bundle,org.eclipse.cdt.core,5.2.1.201102110609,"org.eclipse.cdt.core",1522325991555
+started,bundle,org.eclipse.cdt.make.core,7.0.1.201102110609,"org.eclipse.cdt.make.core",1522325991556
+started,bundle,org.eclipse.cdt.make.ui,7.0.0.201102110609,"org.eclipse.cdt.make.ui",1522325991556
+started,bundle,org.eclipse.cdt.managedbuilder.core,7.0.2.201102110609,"org.eclipse.cdt.managedbuilder.core",1522325991556
+started,bundle,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui",1522325991557
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1522325991558
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1522325991613
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1522325991613
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1522325991614
+started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1522325991641
+started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1522325991642
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1522325991642
+started,bundle,org.eclipse.core.resources,3.6.1.R36x_v20110131-1630,"org.eclipse.core.resources",1522325991658
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1522325991658
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1522325991660
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1522325991660
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1522325991660
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1522325991662
+started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1522325991662
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1522325991662
+started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1522325991663
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1522325991667
+started,bundle,org.eclipse.equinox.p2.core,2.0.3.R36x_v20110111,"org.eclipse.equinox.p2.core",1522325991670
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.203.R36x_v20101220,"org.eclipse.equinox.p2.directorywatcher",1522325991670
+started,bundle,org.eclipse.equinox.p2.engine,2.0.1.R36x_v20110201,"org.eclipse.equinox.p2.engine",1522325991671
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.1.R36x_v20101202,"org.eclipse.equinox.p2.metadata",1522325991701
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1522325991703
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1522325991704
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.2.R36x_v20110114,"org.eclipse.equinox.p2.reconciler.dropins",1522325991704
+started,bundle,org.eclipse.equinox.p2.repository,2.0.2.R36x_v20110111-1500,"org.eclipse.equinox.p2.repository",1522325991706
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1522325991709
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1522325991709
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1522325991710
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1522325991710
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1522325991710
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1522325991711
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1522325991749
+started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1522325991749
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1522325991749
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1522325991814
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1522325991816
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1522325991816
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1522325991816
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1522325991816
+started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1522325991843
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1522325991844
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1522325991872
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1522325991903
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1522325991916
+started,bundle,org.eclipse.ui.intro,3.4.0.v20100427,"org.eclipse.ui.intro",1522325991921
+started,bundle,org.eclipse.ui.intro.universal,3.2.402.r36_v20100702,"org.eclipse.ui.intro.universal",1522325991922
+started,bundle,org.eclipse.ui.navigator,3.5.0.I20100601-0800,"org.eclipse.ui.navigator",1522325991928
+started,bundle,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.resources",1522325991928
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1522325991929
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1522325991929
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1522325991929
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1522325991948
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1522325991949
+os,sysinfo,,,"linux",1522325991951
+arch,sysinfo,,,"x86_64",1522325991951
+ws,sysinfo,,,"gtk",1522325991951
+locale,sysinfo,,,"pt_BR",1522325991951
+processors,sysinfo,,,"2",1522325991951
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1522325991951
+java.runtime.version,sysinfo,,,"1.8.0_161-b12",1522325991951
+java.specification.name,sysinfo,,,"Java Platform API Specification",1522325991951
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1522325991951
+java.specification.version,sysinfo,,,"1.8",1522325991951
+java.vendor,sysinfo,,,"Oracle Corporation",1522325991951
+java.version,sysinfo,,,"1.8.0_161",1522325991951
+java.vm.info,sysinfo,,,"mixed mode",1522325991951
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1522325991951
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1522325991951
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1522325991951
+java.vm.specification.version,sysinfo,,,"1.8",1522325991951
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1522325991951
+java.vm.version,sysinfo,,,"25.161-b12",1522325991951
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1522325992062
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1522325992070
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1522325992250
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1522325992274
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1522325992293
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1522325992358
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1522325992530
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1522325992531
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1522325992562
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1522325992582
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1522325992673
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1522325993205
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/saveas_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325996687
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/elcl16/refresh_nav.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325996709
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/import_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325996713
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/export_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325996716
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/undo_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325997030
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/redo_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325997037
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/cut_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325997040
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/copy_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325997042
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/paste_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325997044
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/etool16/delete_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325997045
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/newmngcc_app.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325998809
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newfolder_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325998819
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newhfile_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325998821
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newfile_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325998823
+error,log,,,"The URL ""bundleentry://170.fwk1221555852/icons/etool16/task-new.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325998825
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/fldr_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325999976
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/variable_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522325999978
+started,bundle,org.eclipse.cdt.managedbuilder.ui,7.0.0.201102110609,"org.eclipse.cdt.managedbuilder.ui",1522326000062
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/cfolder_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326000063
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/container_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326000091
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/tc_empty.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326000370
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/tc_preferred.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326000374
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,7.0.0.201102110609,"org.eclipse.cdt.managedbuilder.gnu.ui",1522326000395
+error,log,,,"The URL ""bundleentry://208.fwk1221555852/icons/full/wizban/new_wiz.png"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326000822
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1522326000908
+no handler,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1522326035057
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1522326063014
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1522326063205
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/c_file_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326066724
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/c_file_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326066727
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1522326066846
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/c_file_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326067155
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1522326067694
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1522326067721
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/dtool16/mark_occurrences.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326067728
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/mark_occurrences.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326067735
+error,log,,,"The URL ""bundleentry://208.fwk1221555852/icons/full/dtool16/build_exec.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326067914
+error,log,,,"The URL ""bundleentry://204.fwk1221555852/icons/full/dlcl16/pin.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326068991
+error,log,,,"The URL ""bundleentry://204.fwk1221555852/icons/full/clcl16/pin.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326068992
+error,log,,,"The URL ""bundleentry://204.fwk1221555852/icons/full/elcl16/new_con.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326068999
+opened,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1522326069021
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/dlcl16/search_next.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069269
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/search_next.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069270
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/dlcl16/search_prev.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069273
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/search_prev.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069275
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/dlcl16/synced.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069280
+error,log,,,"The URL ""bundleentry://201.fwk1221555852/icons/full/elcl16/synced.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069280
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/dlcl16/save_console.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069287
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/save_console.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069295
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/dlcl16/lock_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069300
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/lock_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069310
+error,log,,,"The URL ""bundleentry://204.fwk1221555852/icons/full/dlcl16/clear_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069317
+error,log,,,"The URL ""bundleentry://204.fwk1221555852/icons/full/clcl16/clear_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326069318
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1522326147526
+activated,view,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.internal.introview",1522326147544
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/newmngcc_app.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326152298
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newfolder_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326152302
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newhfile_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326152309
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newfile_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326152310
+error,log,,,"The URL ""bundleentry://170.fwk1221555852/icons/etool16/task-new.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326152313
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/shift_r_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326156454
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/shift_l_edit.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326156476
+error,log,,,"The URL ""bundleentry://170.fwk1221555852/icons/etool16/task-active-centered.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157123
+error,log,,,"The URL ""bundleentry://170.fwk1221555852/icons/etool16/task-inactive-centered.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157148
+error,log,,,"The URL ""bundleentry://208.fwk1221555852/icons/full/etool16/next_nav.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157150
+error,log,,,"The URL ""bundleentry://208.fwk1221555852/icons/full/etool16/prev_nav.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157175
+error,log,,,"The URL ""bundleentry://192.fwk1221555852/icons/full/elcl16/tsearch_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157187
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/obj16/csearch_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157200
+error,log,,,"The URL ""bundleentry://72.fwk1221555852/icons/full/elcl16/runlast_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157284
+error,log,,,"The URL ""bundleentry://72.fwk1221555852/icons/full/elcl16/debuglast_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157312
+error,log,,,"The URL ""bundleentry://72.fwk1221555852/icons/full/obj16/brkp_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157328
+error,log,,,"The URL ""bundleentry://72.fwk1221555852/icons/full/obj16/readwrite_obj.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157336
+error,log,,,"The URL ""bundleentry://72.fwk1221555852/icons/full/elcl16/skip_brkp.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157339
+error,log,,,"The URL ""bundleentry://72.fwk1221555852/icons/full/elcl16/rem_all_co.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326157340
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/elcl16/newmngcc_app.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326160272
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newfolder_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326160275
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newhfile_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326160276
+error,log,,,"The URL ""bundleentry://46.fwk1221555852/icons/etool16/newfile_wiz.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326160278
+error,log,,,"The URL ""bundleentry://170.fwk1221555852/icons/etool16/task-new.gif"" could not be extracted probably due to insufficient permissions or insufficient disk space.",1522326160280
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1522326161017
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.edit.text.openLocalFile",1522326166965
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1522326166968
